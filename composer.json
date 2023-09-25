@@ -1,0 +1,11 @@
+{
+    "name": "Afraitteam/HelloWorld",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "Afraitteam\\HelloWorld\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
